@@ -136,6 +136,7 @@ input[type="text"] {
   float: left;
   background-color: #4caf50;
   padding-top: 68px;
+  height: 879.5px;
 }
 
 .box {
@@ -173,7 +174,7 @@ input[type="text"] {
 }
 
 .promise {
-  font-size: 31px;
+  font-size: 29px;
   line-height: 35px;
   font-weight: 800;
   font-family: Arial, Helvetica, sans-serif;
@@ -187,7 +188,7 @@ input[type="text"] {
 }
 
 .petition {
-  font-size: 13.5px;
+  font-size: 13.2px;
   line-height: 22px;
   color: rgb(124, 149, 176);
   font-weight: bold;
@@ -327,4 +328,28 @@ footer {
   color: #fff;
   width: 100%;
   bottom: 0;
+}
+
+.turp {
+  border-radius: 20px;
+  font-size: 14px;
+  background-color: lemonchiffon;
+  padding: 14px 25px;
+  font-weight: bold;
+  font-family: "Inter", sans-serif;
+  position: relative;
+  direction: ltr;
+}
+
+.prut {
+  position: fixed;
+  right: 0;
+  bottom: 350px;
+  transform: rotate(-90deg);
+}
+
+.b-arrow-right {
+  font-weight: bold;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
 }

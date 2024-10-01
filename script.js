@@ -16,3 +16,8 @@ for (i = 0; i < acc.length; i++) {
     }
   });
 }
+
+// for alert
+alert(
+  "Welcome To Alkebulan Citizen Engagement Platform: Where Your Voice Drive Impactful Change!"
+);
